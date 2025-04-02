@@ -1,0 +1,41 @@
+body {
+    background-color: bisque;
+}
+h1{
+    text-decoration: underline;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    font-family: 'Lucida Sans';
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: gray;
+    font-weight: bold;
+}
+
+footer{
+    font-style: italic;
+}
+h2{
+    text-decoration: underline;
+    text-align: center;
+}
+img{
+    display: block;
+    width: 200px;
+    border-radius: 8px;
+    margin: 0 auto;
+    padding: 5px;
+  
+}
